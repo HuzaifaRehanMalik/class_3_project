@@ -1,7 +1,7 @@
 export default function Navebar(){
     return(
         <div>
-            <h1>Navbar</h1>
+            <h1>Navebar</h1>
         </div>
     )
     
